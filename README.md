@@ -3,10 +3,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sudkir&theme=onedark&title=Commits,Experience)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 GitHub stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sudkir&show_icons=true&theme=radical)
 
 ## 🧾 Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudkir&layout=compact)
 
 <!--
 **Sudkir/Sudkir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
