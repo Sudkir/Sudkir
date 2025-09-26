@@ -16,6 +16,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudkir&layout=compact)
 
+## 📚 ORCID и SciProfiles
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--8734--1223-brightgreen?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-8734-1223)
+[![SciProfiles](https://img.shields.io/badge/SciProfiles-3260657-blue?style=for-the-badge&logo=readme&logoColor=white)](https://sciprofiles.com/profile/3260657)
+
 <!--
 **Sudkir/Sudkir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
